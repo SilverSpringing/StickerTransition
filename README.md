@@ -1,2 +1,2 @@
 # StickerTransition
-Sticker transition for BB+
+[Wiki](https://github.com/SilverSpringing/StickerTransition/wiki/)
